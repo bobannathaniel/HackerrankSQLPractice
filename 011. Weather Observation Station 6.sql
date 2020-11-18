@@ -1,0 +1,1 @@
+SELECT CITY FROM STATION WHERE CITY like '[a,i,u,e,o]%'

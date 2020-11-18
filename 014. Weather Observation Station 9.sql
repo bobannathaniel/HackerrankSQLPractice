@@ -1,0 +1,1 @@
+SELECT DISTINCT CITY FROM STATION WHERE CITY not like '[a,i,u,e,o]%'
